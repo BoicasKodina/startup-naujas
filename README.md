@@ -1,2 +1,2 @@
 # startup-naujas
-Testavimas
+(https://boicaskodina.github.io/startup-naujas/)
